@@ -1,6 +1,6 @@
 //complete this code
 class Person {
-	Constructor(_name, _age) {
+	constructor(_name, _age) {
 		this.name = _name;
 		this.age = _age;
 	}
